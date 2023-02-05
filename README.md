@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehtabRosul
-- 👀 I’m interested in coding, programming, AI, data science & ML..
+- 👀 I’m interested in coding, programming, AI, Quantum computing & ML..
 - 🌱 I’m currently learning python at the moment
 - 💞️ I’m looking to collaborate on anything that interested..
 - 📫 How to reach me .- onlinemehtab00@gmail.com, rosulmehtab00@gmail.com..
