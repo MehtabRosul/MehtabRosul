@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MehtabRosul
-- 👀 I’m interested in  programming, AI, Quantum computing & ML..
+- 👀 I’m working pA, ML.
+-    And Enthusiast with Quantum Computing.
 - 🌱 I’m currently using python.
 -     I'm and android developer.
 - 💞️ I’m looking to collaborate on anything that interested..
