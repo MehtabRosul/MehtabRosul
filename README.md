@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehtab Aftabur Rosul</h1>
 <h3 align="center">A skillful passionate developer.</h3>
-<img align ="center" alt = "coding" width = "200" src = "https://github.com/MehtabRosul/MehtabRosul/assets/102592487/946f64b4-6a45-4928-8a79-477eea51c186>
-"
+<img align ="center" alt = "coding" width = "500" src = "https://github.com/MehtabRosul/MehtabRosul/assets/102592487/946f64b4-6a45-4928-8a79-477eea51c186">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtabrosul&label=Profile%20views&color=0e75b6&style=flat" alt="mehtabrosul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehtabrosul" alt="mehtabrosul" /></a> </p>
