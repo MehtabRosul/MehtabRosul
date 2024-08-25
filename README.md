@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **mehtabrosul10@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:7145435644926865408/](https://www.linkedin.com/feed/update/urn:li:activity:7145435644926865408/)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
