@@ -16,7 +16,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="Expertise" width="40"/> Core Expertise</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl0OWNucWI2bzJzaGFhZnFjMjV1cjloYWpwdzA2YWZlbnQyN2x5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" alt="Expertise" width="40"/> Core Expertise</h2>
 <ul>
   <li><b>Artificial Intelligence:</b> Building advanced models for real-time applications.</li>
   <li><b>Machine Learning:</b> Designing scalable systems with TensorFlow and PyTorch.</li>
@@ -30,7 +30,7 @@
 
 <h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="Hey" width="40"/> AI & ML Showcase</h2>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0Mnd6OG00dDc5N2hqNDZiaWg3aHBtZXBzd2YzeWJsbmlzaWgzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0Mnd6OG00dDc5N2hqNDZiaWg3aHBtZXBzd2YzeWJsbmlzaWgzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="60"/>
 </div>
 
 <ul>
