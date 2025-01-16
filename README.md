@@ -48,7 +48,7 @@
 
 ---
 
-<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3drYWkyNmF1M3E3YzJ4MDJza2R6bHFlc2MzaHlraGtpZW83c2E2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AynUwd5uKhIevEWx54/giphy.gif" alt="stats" width="40"/>GitHub Stats</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGszamUyc2hna2pyeTlqenUzN2Z5ejBrY2NmdW9pMGZzbjBvYnd0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif" alt="stats" width="40"/>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats" height="120" style="display: inline-block;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak" height="120" style="display: inline-block;"/>
