@@ -1,4 +1,4 @@
-<h1 align="center">👋 <div align="center">
+<h1 align="left">👋 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZpaTd3MGY1NnFqaWRzbzVzcHZmcHZrOWFreGkyNDBlNjk0aHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="Mehtab" width="10"/>
 </div> Welcome to the World of Mehtab Aftabur Rosul</h1>
 <h3 align="center">🚀 Pioneering the Future with AI, ML, and Technology Excellence</h3>
