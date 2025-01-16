@@ -22,6 +22,7 @@
   <li><b>Machine Learning:</b> Designing scalable systems with TensorFlow and PyTorch.</li>
   <li><b>Deep Learning:</b> Expertise in CNNs, RNNs, GANs, and Transformers.</li>
   <li><b>Backend Systems:</b> Developing robust APIs and backend solutions.</li>
+  <li><b>Frontend Developer:</b> Developing amazing websites, web contents.</li>
   <li><b>Cybersecurity:</b> Crafting secure frameworks for modern applications.</li>
 </ul>
 
@@ -51,7 +52,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabRosul&layout=compact&theme=radical" alt="Python"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabRosul&layout=compact&theme=radical" alt="Top Language"/>
 </div>
 
 ---
