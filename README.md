@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Pioneering the Future with AI, ML, and Technology Excellence</h3>
 
 <div align="center">
-  <img src="https://https://www.youtube.com/" alt="Mehtab's Dynamic Banner" width="800"/>
+  <img src="https://lottiefiles.com/search?q=bot+greating&category=animations&page=3" alt="Mehtab's Dynamic Banner" width="800"/>
 </div>
 
 ---
