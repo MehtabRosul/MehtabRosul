@@ -16,7 +16,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdyYmEweW0wcnp4cmlvanEzazlweTRsd3A3YzdzYmw1c3Jib2U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kfr20XdmssiUA0L115/giphy.gif" alt="Hey" width="50"/> Core Expertise</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdyYmEweW0wcnp4cmlvanEzazlweTRsd3A3YzdzYmw1c3Jib2U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kfr20XdmssiUA0L115/giphy.gif" alt="Hey" width="40"/> Core Expertise</h2>
 <ul>
   <li><b>Artificial Intelligence:</b> Building advanced models for real-time applications.</li>
   <li><b>Machine Learning:</b> Designing scalable systems with TensorFlow and PyTorch.</li>
