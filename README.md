@@ -51,7 +51,6 @@
 <h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="stats" width="50"/>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats" height="120" style="display: inline-block;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak" height="120" style="display: inline-block;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabRosul&layout=compact&theme=radical" alt="Top Language" height="120" style="display: inline-block;"/>
 </div>
 
