@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Mehtab Aftabur Rosul</h1>
-<h3 align="center">A Passionate and Visionary Developer Transforming Ideas into Reality</h3>
+<h1 align="center">Welcome to Mehtab Aftabur Rosul's GitHub</h1>
+<h3 align="center">A Visionary Developer Crafting the Future of Technology</h3>
 
 <div align="center">
   <img align="center" alt="Coding" width="200" src="https://github.com/MehtabRosul/MehtabRosul/assets/102592487/946f64b4-6a45-4928-8a79-477eea51c186.gif">
@@ -13,16 +13,16 @@
 
 <h2>About Me</h2>
 <p>
-  I'm Mehtab Aftabur Rosul, a highly skilled developer with a strong passion for innovation, technology, and solving real-world challenges through code. With expertise in Python, Machine Learning, Artificial Intelligence, Android Development, and more, I thrive on creating solutions that leave a meaningful impact.
+  Hi, I’m Mehtab Aftabur Rosul, a Senior Technical Researcher at <b>EncryptArx</b>, where I lead innovative AI and cybersecurity projects. I am passionate about blending technology and creativity to solve complex problems. With expertise spanning <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Android Development</b>, I focus on building impactful solutions that push the boundaries of innovation.
 </p>
 
 <h3>💡 Quick Highlights</h3>
 <ul>
-  <li>🔭 Currently working on innovative projects in <b>AI and Deep Learning</b>.</li>
-  <li>🌱 Continuously learning and exploring cutting-edge technologies like <b>Generative AI</b> and <b>Advanced ML Libraries</b>.</li>
-  <li>🤝 Actively collaborating on projects that inspire and challenge me.</li>
+  <li>🔭 Currently working on <b>Guardian_Angel_AI</b>, a revolutionary real-time threat detection system at EncryptArx.</li>
+  <li>🌱 Exploring <b>Generative AI</b> and cutting-edge machine learning frameworks.</li>
+  <li>🤝 Open to collaborating on challenging and transformative projects.</li>
   <li>📫 Reach me at <a href="mailto:mehtabrosul10@gmail.com">mehtabrosul10@gmail.com</a>.</li>
-  <li>⚡ Fun fact: My sense of humor is as sharp as my coding skills!</li>
+  <li>⚡ Fun fact: I combine humor and innovation to create magic!</li>
 </ul>
 
 ---
@@ -60,10 +60,15 @@
 
 <h2>Current Focus</h2>
 <p>
-  I am deeply involved in creating scalable AI solutions, exploring advanced machine learning architectures, and developing impactful software solutions for diverse industries. My journey is driven by curiosity, innovation, and the desire to build technologies that make a difference.
+  At <b>EncryptArx</b>, I am spearheading groundbreaking projects in real-time threat detection and scalable AI solutions. My work reflects a commitment to enhancing digital security and pushing the boundaries of innovation. Beyond my professional roles, I am dedicated to building impactful software that transforms industries and improves lives.
+</p>
+
+<h2>About EncryptArx</h2>
+<p>
+  EncryptArx is a leading-edge cybersecurity company specializing in advanced threat detection and AI-driven security frameworks. Our mission is to safeguard digital ecosystems with innovative, scalable, and adaptive technologies tailored to modern cybersecurity challenges. We believe in creating solutions that not only protect but also empower users to thrive in a secure digital world.
 </p>
 
 <h2>Let’s Build the Future Together!</h2>
 <p>
-  If you’re as excited about technology as I am, let’s connect, collaborate, and create something incredible. Whether it’s AI, ML, Android Development, or something entirely new, I’m always ready for a challenge.
+  If you’re as passionate about technology as I am, let’s connect, collaborate, and innovate. Whether it’s a challenging project, a transformative idea, or a groundbreaking solution, I’m always eager to explore new possibilities.
 </p>
