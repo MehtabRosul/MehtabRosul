@@ -12,7 +12,7 @@
   Hi, I'm <b>Mehtab Aftabur Rosul</b>, a Senior AI/ML Engineer with a vision to transform ideas into impactful solutions. With a passion for cutting-edge technologies, I specialize in creating scalable AI systems, innovative machine learning models, and secure backend architectures. My work revolves around turning complex challenges into elegant solutions that make a difference.
 </p>
 
-<h3 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pqcmU2dGxtcHF4dmx6ZnEwNnNnNHhrcnc3ODJnMXI3YjE2bHAzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JrMyqcNznjfx8g5sr2/giphy.gif" alt="technology" width="50"/>"AI isn't just technology; it's the art of empowering possibilities."</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/LTKNeovXR7pOrysqcO/giphy.gif?cid=790b7611cgnvvm1xi98tadvjim0db105fm7by2063az1r9t0&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="technology" width="50"/>"AI isn't just technology; it's the art of empowering possibilities."</h3>
 
 ---
 
