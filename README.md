@@ -80,4 +80,7 @@
 
 ---
 
-<h2 align="center">🌟 Let's Build the Future Together!</h2>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlwbXZheHU1cDlqZW9kZ29hZm5sbmVlb3o1aWxwcm1wNWlyenpwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fxHtefWEsASfnSVgvU/giphy.gif" alt="lets go" width="50"/> Let's Build the Future Together!</h2>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp1NWViZzJscnB6b2JwOG1waTZwbG9qdHZpdTFsdXB2czYzaXFvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GrOLrtDMq8XNECXdWF/giphy.gif" alt="Mehtab" width="170"/>
+</div>
