@@ -41,7 +41,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0Mnd6OG00dDc5N2hqNDZiaWg3aHBtZXBzd2YzeWJsbmlzaWgzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" alt="tools" width="60"/> Technologies & Tools</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN1MGl6YTI4cTZreXpkZGlvZ2RnZThqbnN0cHRmbHB6c3BkZGluZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MuqpqJmXh6J5UCu7U1/giphy.gif" alt="tools" width="60"/> Technologies & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,androidstudio,kotlin,html,css,js" alt="Tech Stack"/>
 </div>
