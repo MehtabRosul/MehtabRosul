@@ -16,7 +16,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl0OWNucWI2bzJzaGFhZnFjMjV1cjloYWpwdzA2YWZlbnQyN2x5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" alt="Expertise" width="40"/> Core Expertise</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl0OWNucWI2bzJzaGFhZnFjMjV1cjloYWpwdzA2YWZlbnQyN2x5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" alt="Expertise" width="50"/> Core Expertise</h2>
 <ul>
   <li><b>Artificial Intelligence:</b> Building advanced models for real-time applications.</li>
   <li><b>Machine Learning:</b> Designing scalable systems with TensorFlow and PyTorch.</li>
@@ -28,7 +28,7 @@
 
 ---
 
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRzMGtnc2xuZXFoMmw1MWV1aHFzMDFoenVscGl6NmRoazBzd2NvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V4pTikJublEe2AtPW7/giphy.gif" alt="tech" width="40"/> AI & ML Showcase</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRzMGtnc2xuZXFoMmw1MWV1aHFzMDFoenVscGl6NmRoazBzd2NvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V4pTikJublEe2AtPW7/giphy.gif" alt="tech" width="50"/> AI & ML Showcase</h2>
 <div align="center">
   <img src="https://github.com/MehtabRosul/MehtabRosul/assets/102592487/ai_projects_showcase.gif" alt="AI Showcase" width="600"/>
 </div>
@@ -48,7 +48,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="stats" width="40"/>GitHub Stats</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="stats" width="50"/>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats" height="120" style="display: inline-block;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak" height="120" style="display: inline-block;"/>
@@ -57,14 +57,14 @@
 
 ---
 
-<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo1eGY2NGRsM3d2YXozM3l6eGg5NnoycWk4eXJlbWo5ZmprbnU2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K77lWFobBeX5xcLsdp/giphy.gif" alt="role" width="40"/> Current Role at EncryptArx</h2>
+<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo1eGY2NGRsM3d2YXozM3l6eGg5NnoycWk4eXJlbWo5ZmprbnU2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K77lWFobBeX5xcLsdp/giphy.gif" alt="role" width="50"/> Current Role at EncryptArx</h2>
 <p>
   As a Senior Technical Researcher at <b>EncryptArx</b>, I lead projects in AI, ML, and cybersecurity, specializing in threat detection and real-time AI solutions. My focus is on creating secure, scalable systems that protect digital ecosystems and empower businesses to navigate the complexities of modern technology.
 </p>
 
 ---
 
-<h2>🚀 Vision</h2>
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxxeHpmbHJpdnU2YXphZnBpZnJjZHdtYmJubDhkNTR5OWJoNXozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.gif" alt="vision" width="40"/> Vision</h2>
 <p>
   To harness the power of AI and technology to build a safer, smarter, and more connected world. By pushing the boundaries of innovation, I aim to inspire change and redefine what's possible in the realm of technology.
 </p>
