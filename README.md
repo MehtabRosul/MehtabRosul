@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Pioneering the Future with AI, ML, and Technology Excellence</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611ewvm0y9ewy6pta41v8upszza4jbxbnmmlbagppjm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Mehtab's Dynamic Banner" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JsdGYzaDVsdTh2ZDBzMTI3dDl6cGkwYWExcHg2bno3M3Y3Y3N5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Mehtab" width="200"/>
 </div>
 
 ---
