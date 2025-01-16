@@ -28,7 +28,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="tech" width="40"/> AI & ML Showcase</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRzMGtnc2xuZXFoMmw1MWV1aHFzMDFoenVscGl6NmRoazBzd2NvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V4pTikJublEe2AtPW7/giphy.gif" alt="tech" width="40"/> AI & ML Showcase</h2>
 <div align="center">
   <img src="https://github.com/MehtabRosul/MehtabRosul/assets/102592487/ai_projects_showcase.gif" alt="AI Showcase" width="600"/>
 </div>
@@ -48,7 +48,7 @@
 
 ---
 
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGszamUyc2hna2pyeTlqenUzN2Z5ejBrY2NmdW9pMGZzbjBvYnd0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif" alt="stats" width="40"/>GitHub Stats</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="stats" width="40"/>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats" height="120" style="display: inline-block;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak" height="120" style="display: inline-block;"/>
