@@ -71,7 +71,7 @@
 
 ---
 
-<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmoydmhnd213ZjBtejE1cnBlNGk3ZmptMGFsM2xzMW45MDhpZzJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" alt="connect" width="50"/> Let's Connect</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9vdnY3NjZ0d3BwenJsc204Mnp2OWVqN3ZtcGhjYXN0am5odHNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DWkJAjzkpKqkHNSWyk/giphy.gif" alt="connect" width="50"/> Let's Connect</h2>
 <p align="center">
   <a href="mailto:mehtabrosul10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.rosulmehtab.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Portfolio"></a>
