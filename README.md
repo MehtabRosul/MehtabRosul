@@ -64,14 +64,14 @@
 
 ---
 
-<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxxeHpmbHJpdnU2YXphZnBpZnJjZHdtYmJubDhkNTR5OWJoNXozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.gif" alt="vision" width="40"/> Vision</h2>
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxxeHpmbHJpdnU2YXphZnBpZnJjZHdtYmJubDhkNTR5OWJoNXozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.gif" alt="vision" width="50"/> Vision</h2>
 <p>
   To harness the power of AI and technology to build a safer, smarter, and more connected world. By pushing the boundaries of innovation, I aim to inspire change and redefine what's possible in the realm of technology.
 </p>
 
 ---
 
-<h2>🌐 Let's Connect</h2>
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmoydmhnd213ZjBtejE1cnBlNGk3ZmptMGFsM2xzMW45MDhpZzJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" alt="connect" width="50"/> Let's Connect</h2>
 <p align="center">
   <a href="mailto:mehtabrosul10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.rosulmehtab.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Portfolio"></a>
