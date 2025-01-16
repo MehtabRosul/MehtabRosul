@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDIxd3k3anU3YnZqaHhzcm0weG14ZDJmY2lyYnQwM3BjNWJhbXduOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q5qxAimg5BZugev06x/giphy.gif" alt="Hey" width="50"/> About Me</h2>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs0NnRzcWQ1NDFzdGdoeXBqOTJubHFycDB6MXE3bWJjbTgyaG5rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VFWS5pvBwFA1KA79ce/giphy.gif" alt="Hey" width="50"/> About Me</h2>
 <p align="center">
   Hi, I'm <b>Mehtab Aftabur Rosul</b>, a Senior AI/ML Engineer with a vision to transform ideas into impactful solutions. With a passion for cutting-edge technologies, I specialize in creating scalable AI systems, innovative machine learning models, and secure backend architectures. My work revolves around turning complex challenges into elegant solutions that make a difference.
 </p>
