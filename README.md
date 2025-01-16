@@ -57,7 +57,7 @@
 
 ---
 
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFuZmpncGhmMTc4MW42ZWV5aXBoanFoeTI1eXM1OTJyNmU5MjJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxmtc3acBAJ87Aywug/giphy.gif" alt="role" width="40"/> Current Role at EncryptArx</h2>
+<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo1eGY2NGRsM3d2YXozM3l6eGg5NnoycWk4eXJlbWo5ZmprbnU2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K77lWFobBeX5xcLsdp/giphy.gif" alt="role" width="40"/> Current Role at EncryptArx</h2>
 <p>
   As a Senior Technical Researcher at <b>EncryptArx</b>, I lead projects in AI, ML, and cybersecurity, specializing in threat detection and real-time AI solutions. My focus is on creating secure, scalable systems that protect digital ecosystems and empower businesses to navigate the complexities of modern technology.
 </p>
