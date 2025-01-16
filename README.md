@@ -7,16 +7,16 @@
 
 ---
 
-<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs0NnRzcWQ1NDFzdGdoeXBqOTJubHFycDB6MXE3bWJjbTgyaG5rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VFWS5pvBwFA1KA79ce/giphy.gif" alt="Hey" width="50"/> About Me</h2>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs0NnRzcWQ1NDFzdGdoeXBqOTJubHFycDB6MXE3bWJjbTgyaG5rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VFWS5pvBwFA1KA79ce/giphy.gif" alt="Me" width="50"/> About Me</h2>
 <p align="center">
   Hi, I'm <b>Mehtab Aftabur Rosul</b>, a Senior AI/ML Engineer with a vision to transform ideas into impactful solutions. With a passion for cutting-edge technologies, I specialize in creating scalable AI systems, innovative machine learning models, and secure backend architectures. My work revolves around turning complex challenges into elegant solutions that make a difference.
 </p>
 
-<h3 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF0cTN2cGs5ZmVtbWMwYWY3ZGx5M3oycXBsMWI5cmZ5bjhrbnlqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AzBXsfmn19FlXAkp1j/giphy.gif" alt="Hey" width="50"/>"AI isn't just technology; it's the art of empowering possibilities."</h3>
+<h3 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF0cTN2cGs5ZmVtbWMwYWY3ZGx5M3oycXBsMWI5cmZ5bjhrbnlqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AzBXsfmn19FlXAkp1j/giphy.gif" alt="technology" width="50"/>"AI isn't just technology; it's the art of empowering possibilities."</h3>
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdyYmEweW0wcnp4cmlvanEzazlweTRsd3A3YzdzYmw1c3Jib2U1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kfr20XdmssiUA0L115/giphy.gif" alt="Hey" width="40"/> Core Expertise</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="Expertise" width="40"/> Core Expertise</h2>
 <ul>
   <li><b>Artificial Intelligence:</b> Building advanced models for real-time applications.</li>
   <li><b>Machine Learning:</b> Designing scalable systems with TensorFlow and PyTorch.</li>
