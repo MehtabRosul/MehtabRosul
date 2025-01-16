@@ -16,7 +16,7 @@
 
 ---
 
-<h2>🔑 Core Expertise</h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqeGNmanVwMG56MXg5dDZwMngyN3J5eno1NDVudThyZDBxZjk4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qQmTFifHAlqr2cyGpF/giphy.gif" alt="Hey" width="70"/> Core Expertise</h2>
 <ul>
   <li><b>Artificial Intelligence:</b> Building advanced models for real-time applications.</li>
   <li><b>Machine Learning:</b> Designing scalable systems with TensorFlow and PyTorch.</li>
