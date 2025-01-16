@@ -2,7 +2,7 @@
 <h3 align="center"> Pioneering the Future with Artificial Intelligent and Technology Excellence</h3>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZpaTd3MGY1NnFqaWRzbzVzcHZmcHZrOWFreGkyNDBlNjk0aHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="Mehtab" width="170"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE2b2hlemJ3bXIwZHdlZnhhczA0NnQ3dmt1ZmF6bHduZjdscXE2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2J3VPYmnhO2jjKAX0X/giphy.gif" alt="Mehtab" width="170"/>
 </div>
 
 ---
