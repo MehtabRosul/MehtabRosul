@@ -43,7 +43,7 @@
 
 <h2>💻 Technologies & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,androidstudio,kotlin,html,css,js,qistik" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,androidstudio,kotlin,html,css,js" alt="Tech Stack"/>
 </div>
 
 ---
