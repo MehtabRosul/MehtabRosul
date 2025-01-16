@@ -50,9 +50,9 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats" height="150" style="display: inline-block;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak" height="150" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabRosul&layout=compact&theme=radical" alt="Top Language" height="150" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehtabRosul&show_icons=true&theme=radical" alt="GitHub Stats" height="120" style="display: inline-block;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehtabRosul&theme=radical" alt="GitHub Streak" height="120" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabRosul&layout=compact&theme=radical" alt="Top Language" height="120" style="display: inline-block;"/>
 </div>
 
 ---
