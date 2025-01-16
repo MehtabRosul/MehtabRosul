@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xtZjJqM2l1ZHZuamQ4dGt2Ymd2MWZ3Nm54bGVoN3J0d2JrNTE5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" alt="Hey" width="70"/>Welcome to the World of Mehtab Aftabur Rosul</h1>
-<h3 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NqZWptY2g0b3owd3YwNGdnZjd0eHd6b3BmcWZnc214bmV5OHF5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02fpOkmY0kxI2ta63z/giphy.gif" alt="Hey" width="70"/>Pioneering the Future with AI, ML, and Technology Excellence</h3>
+<h3 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NqZWptY2g0b3owd3YwNGdnZjd0eHd6b3BmcWZnc214bmV5OHF5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02fpOkmY0kxI2ta63z/giphy.gif" alt="Hey" width="30"/>Pioneering the Future with AI, ML, and Technology Excellence</h3>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZpaTd3MGY1NnFqaWRzbzVzcHZmcHZrOWFreGkyNDBlNjk0aHllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="Mehtab" width="170"/>
