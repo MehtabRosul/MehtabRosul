@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Pioneering the Future with AI, ML, and Technology Excellence</h3>
 
 <div align="center">
-  <img src="https://github.com/MehtabRosul/MehtabRosul/assets/102592487/dynamic_banner.gif" alt="Mehtab's Dynamic Banner" width="800"/>
+  <img src="[https://github.com/MehtabRosul/MehtabRosul/assets/102592487/dynamic_banner.gif](https://lottie.host/2ebb3c56-4e4b-4202-9fc3-cf40ac34c0d7/SsXRTJ6HUV.lottie)" alt="Mehtab's Dynamic Banner" width="800"/>
 </div>
 
 ---
