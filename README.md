@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">👨🏻‍💼 About Me</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI2cGV5aW16ajR3bmxoeDZldjBtczk2cTkwOHJjOHB6cWZwaHI2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGHpWzdOEkMKtwLqdc/giphy.gif" alt="Hey" width="50"/> About Me</h2>
 <p align="center">
   Hi, I'm <b>Mehtab Aftabur Rosul</b>, a Senior AI/ML Engineer with a vision to transform ideas into impactful solutions. With a passion for cutting-edge technologies, I specialize in creating scalable AI systems, innovative machine learning models, and secure backend architectures. My work revolves around turning complex challenges into elegant solutions that make a difference.
 </p>
