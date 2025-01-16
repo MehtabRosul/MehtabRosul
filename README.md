@@ -57,7 +57,7 @@
 
 ---
 
-<h2>✨ Current Role at EncryptArx</h2>
+<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVrcjNuaHNmenYwZHd6dGludXNyMWxlejUwNnZuNzYxazZ0cW1tNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9LwSYQz5jGpOyYr163/giphy.gif" alt="stats" width="role"/> Current Role at EncryptArx</h2>
 <p>
   As a Senior Technical Researcher at <b>EncryptArx</b>, I lead projects in AI, ML, and cybersecurity, specializing in threat detection and real-time AI solutions. My focus is on creating secure, scalable systems that protect digital ecosystems and empower businesses to navigate the complexities of modern technology.
 </p>
