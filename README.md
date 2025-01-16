@@ -28,7 +28,7 @@
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="Hey" width="40"/> AI & ML Showcase</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ5Ymp2M203MzJnaXhtcDIxaHdsYWg4dXh0czVoNWZ4OTB3eXU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" alt="tech" width="40"/> AI & ML Showcase</h2>
 <div align="center">
   <img src="https://github.com/MehtabRosul/MehtabRosul/assets/102592487/ai_projects_showcase.gif" alt="AI Showcase" width="600"/>
 </div>
@@ -41,7 +41,7 @@
 
 ---
 
-<h2>💻 Technologies & Tools</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0Mnd6OG00dDc5N2hqNDZiaWg3aHBtZXBzd2YzeWJsbmlzaWgzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" alt="tools" width="40"/> Technologies & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,androidstudio,kotlin,html,css,js" alt="Tech Stack"/>
 </div>
